@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=sunishkamisala&color=lightgrey&style=plastic)
@@ -5,6 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunishkamisala&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![azure-ai-fundamentals-20x20](https://user-images.githubusercontent.com/58567915/127597283-0415844a-2ca3-4b66-8ef0-cef40b1142c8.png)
 
 <!--
 
