@@ -1,8 +1,6 @@
 
 ### Hi there 👋
 
-I'm Sunishka Misala! I'm currently a junior at the University of Rochester studying Data Science and Business Analytics. 
-
 ![](https://komarev.com/ghpvc/?username=sunishkamisala&color=lightgrey&style=plastic)
 
 
